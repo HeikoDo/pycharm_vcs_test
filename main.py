@@ -16,3 +16,5 @@ if __name__ == "__main__":
     print("How are you doing?")
     print("Where do you live?")
     print(password)
+
+    x = 3
