@@ -17,4 +17,4 @@ if __name__ == "__main__":
     print("Where do you live?")
     print(password)
 
-    x = 3
+    x = 30
